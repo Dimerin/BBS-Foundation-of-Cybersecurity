@@ -53,7 +53,6 @@ This project implements a secure, centralized Bulletin Board System (BBS) that a
 - **Session Encryption:** AES-128-GCM ensures confidentiality and message integrity.
 - **Post Storage:** Posts are encrypted and stored on disk using AES; keys are refreshed on every server restart.
 
-
 ## 🧪 How to Run
 
 ```bash
@@ -61,7 +60,7 @@ make
 ./run.sh
 ```
 ## 🔐 Note
-The RSA key included in the `.pem` file must be generated using `openssl` and placed in the keys folder.
+The RSA key included in the `.pem` file must be generated using `openssl` and placed in the `FoC-Project/keys` folder. BBS project specification from 2024-2025 academic year.
 
 
 
