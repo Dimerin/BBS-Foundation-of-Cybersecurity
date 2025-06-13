@@ -1,0 +1,7 @@
+/FoC-Project/*.o
+/FoC-Project/bin
+/FoC-Project/obj
+/FoC-Project/email
+/FoC-Project/DataServer/*.txt
+/FoC-Project/DataClient/*.txt
+*.pem
